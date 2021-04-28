@@ -1,12 +1,34 @@
-### Hej
-#### I'm Mati, a twenty-years old developer.
+<h1 align="center">
+    Hej, I'm Mati 👋
+</h1>
 
-and I like to code with:
-- TYPO3/Laravel/Symfony in PHP
-- Vue.js and everything around those three php-libraries!
+<h3 align="center">
+    a twenty-years old developer into everything about developing things, games, and Netflix series. 
+</h3>
 
-Some useful storys:
-- ⚡ Site-Extensions (TYPO3): https://imati.dev/storys/site-extensions/
-- 💛 Frontend-Assets (ES6 Vanilla JavaScript): https://imati.dev/storys/frontend-assets
+<p align="center">💼 Working at <a href="https://schommer-media.de/" target="_blank">Schommer Media</a></p>
+<p align="center">📰 Read some storys here on my <a href="https://imati.dev/storys/" target="_blank">personal developer website</a>.</p>
 
-Enjoy them and leave a star here on GitHub if you liked any of them :)
+<h4 align="center">
+    🔥 Streak stats
+</h4>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammati&theme=dracula" />
+</p>
+
+<h4 align="center">
+    💛 Programming languages
+</h4>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammati&theme=radical&langs_count=6&layout=compact" />
+</p>
+
+<h4 align="center">
+    🖤 GitHub stats
+</h4>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=iammati&count_private=true&show_icons=true&theme=radical" />
+</p>
