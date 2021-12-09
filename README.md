@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">💼 Working at <a href="https://schommer-media.de/" target="_blank">Schommer Media</a></p>
-<p align="center">📰 Read some storys here on my <a href="https://imati.dev/storys/" target="_blank">personal developer website</a>.</p>
+<p align="center">📃 Take a look at my own site <a href="https://imati.dev/" target="_blank">imati.dev</a>.</p>
 
 <h4 align="center">
     🔥 Streak stats
