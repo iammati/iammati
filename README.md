@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    🎮 a twenty-years old developer into everything about developing, playing video games, and watching Netflix series.
+    🎮 a twenty-one years old developer into everything about developing, playing video games, and watching Netflix series.
 </h3>
 
 <p align="center">💼 Working at <a href="https://schommer-media.de/" target="_blank">Schommer Media</a></p>
