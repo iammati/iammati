@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    🎮 a twenty-two years old developer into everything about developing, automatising, playing video games, and watching Netflix series.
+    🎮 a twenty-three years old developer into everything about developing, automatising, playing video games, and watching Netflix series.
 </h3>
 
 <p align="center">💼 Working at <a href="https://wbstraining.de/" target="_blank">WBS Training AG</a> as DevOps Engineer.</p>
