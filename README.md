@@ -6,7 +6,7 @@
     🎮 a twenty-three years old developer into everything about developing, automatising, playing video games, and watching Netflix series.
 </h3>
 
-<p align="center">💼 Working at <a href="https://wbstraining.de/" target="_blank">WBS Training AG</a> as DevOps Engineer.</p>
+<p align="center">💼 Working at <a href="https://schommer-media.de/" target="_blank">Schommer Media GmbH</a> as Software + DevOps Engineer.</p>
 
 <h4 align="center">
     🔥 Streak stats
