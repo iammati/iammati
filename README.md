@@ -3,10 +3,10 @@
 </h1>
 
 <h3 align="center">
-    🎮 a twenty-three years old developer into everything about developing, automatising, playing video games, and watching Netflix series.
+    🎮 a twenty-three years old developer into everything about developing, automatising, playing video games, and watching series.
 </h3>
 
-<p align="center">💼 Working at <a href="https://schommer-media.de/" target="_blank">Schommer Media GmbH</a> as Software + DevOps Engineer.</p>
+<p align="center">💼 Working at <a href="https://elunic.com/" target="_blank">elunic AG</a> as Lead DevOps- / Cloud-Engineer.</p>
 
 <h4 align="center">
     🔥 Streak stats
