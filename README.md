@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    🎮 a twenty-three years old developer into everything about developing, automatising, playing video games, and watching series.
+    🎮 a twenty-four years old developer into everything about developing, automatising, playing video games, and watching series.
 </h3>
 
 <p align="center">💼 Working at <a href="https://elunic.com/" target="_blank">elunic AG</a> as Lead DevOps- / Cloud-Engineer.</p>
