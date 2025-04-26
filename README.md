@@ -1,14 +1,15 @@
 <h1 align="center">
-    Hej, I'm Mati 👋
+    Hej, I'm Mati 👋.
 </h1>
 
 <h3 align="center">
-    🎮 a twenty-four years old developer into everything about developing, automatising, playing video games, and watching series.
+    🚀 Creator of <a href="https://pagehealth.app" target="_blank">pagehealth.app</a><br/>
+    effortless uptime, SSL/TLS certificate, domain, and more monitoring.
 </h3>
 
-<h2 align="center">
-    🚀 Creator of <a href="https://pagehealth.app" target="_blank">pagehealth.app</a> — effortless uptime, SSL & domain monitoring.
-</h2>
+<h4 align="center">
+    🎮 Twenty-four years old and into everything about programming, automatising, playing video games, and watching series.
+</h4>
 
 <p align="center">💼 Working at <a href="https://elunic.com/" target="_blank">elunic AG</a> as Lead DevOps- / Cloud-Engineer.</p>
 
