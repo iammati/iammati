@@ -11,8 +11,6 @@
     🎮 Twenty-four years old and into everything about programming, automatising, playing video games, and watching series.
 </h4>
 
-<p align="center">💼 Working at <a href="https://elunic.com/" target="_blank">elunic AG</a> as Lead DevOps- / Cloud-Engineer.</p>
-
 <h4 align="center">
     🔥 Streak stats
 </h4>
